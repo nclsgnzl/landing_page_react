@@ -1,0 +1,32 @@
+
+#landing_page_modal .modal-content {
+    background-color: #2497d1; 
+}
+#landing_page_modal .contenido_modal{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 12px;
+    color: white; 
+}
+
+#landing_page_modal .tabla_info{
+	width: 95%;
+	border: 0px;
+}
+
+#landing_page_modal .tabla_info tr td{
+	width: 50%;
+}
+
+.titulo_landing{
+	color: white;
+	font-size: 50px;
+	font-family: 'Calibri';
+	padding: 1%;
+}
+
+.texto{
+	font-size: 18px;
+	margin: 8%;
+	text-align: left;
+}
